@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "title": "Піца",
+        "image": "olivies-pizza.jpg",
+        "description": "Опис піци:.",
+        "price": 19.99
+    },
+    {
+        "id": "2",
+        "title": "Піца",
+        "image": "imgonline-com-ua-Resize-QgOaD9GJe8ul3c.jpg",
+        "description": "Опис піци:.",
+        "price": 12.99
+    },
+    {
+        "id": "3",
+        "title": "Піца",
+        "image": "mushrooms_pizza.jpg",
+        "description": "Опис піци:.",
+        "price": 14.99
+    },
+    {
+        "id": "4",
+        "title": "Піца",
+        "image": "salami_pizza.jpg",
+        "description": "Опис піци:.",
+        "price": 11.99
+    },
+    {
+        "id": "5",
+        "title": "Піца",
+        "image": "salami_pizza.jpg",
+        "description": "Опис піци:.",
+        "price": 11.99
+    },
+    {
+        "id": "6",
+        "title": "Піца",
+        "image": "mushrooms_pizza.jpg",
+        "description": "Опис піци:.",
+        "price": 14.99
+    },
+    {
+        "id": "7",
+        "title": "Піца",
+        "image": "imgonline-com-ua-Resize-QgOaD9GJe8ul3c.jpg",
+        "description": "Опис піци:.",
+        "price": 12.99
+    },
+    {
+        "id": "8",
+        "title": "Піца",
+        "image": "olivies-pizza.jpg",
+        "description": "Опис піци:.",
+        "price": 19.99
+    }
+]
